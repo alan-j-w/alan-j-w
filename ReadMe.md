@@ -9,11 +9,11 @@
 
 ## ⚡ About Me
 
- 💻 Full-stack developer focused on **MERN & Django**
-- 🧠 I build systems that actually solve problems  
-- 🔥 Interested in **scalable backend + clean UI**
-- 🎯 Currently leveling up in **real-world production apps**
-- 📍 Based in Kerala, India
+- 💻 Full-stack developer focused on **MERN & Django**
+- 🧠 I build **practical, problem-solving applications**
+- ⚙️ Interested in **scalable backend + clean UI**
+- 🚀 Currently working on **real-world production systems**
+- 📍 Kerala, India
 
 ---
 
@@ -26,17 +26,19 @@
 
 ### ⚙️ Backend
 ![Django](https://img.shields.io/badge/Django-111?style=for-the-badge&logo=django)
-![NodeJS](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
+![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-111?style=for-the-badge&logo=express)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-111?style=for-the-badge&logo=next.js)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-111?style=for-the-badge&logo=tailwind-css)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111?style=for-the-badge&logo=tailwind-css)
 
-### 🗄️ Database & Tools
+### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql)
+
+### 🧰 Tools
 ![NPM](https://img.shields.io/badge/NPM-111?style=for-the-badge&logo=npm)
 
 ---
@@ -44,14 +46,15 @@
 ## 🚧 What I’m Building
 
 - 🛒 **Multi-vendor E-commerce Platform**  
-  → Built like a scalable marketplace system with vendor & admin architecture
+  → Marketplace architecture with **vendor & admin systems**
 
-- 🤝 **Trackpi Job Portal (Collaborative Project)**  
-  → Platform focused on recruitment operations & CRM-style operations of trackpi private limited 
+- 🤝 **Trackpi Job Portal (Collaborative)**  
+  → Recruitment workflows with **CRM-style operations**
 
 - 🔐 **VulnBox**  
-  → Hands-on cybersecurity learning platform with real attack simulations and Hands-on vulnerability testing 
-   Live: https://vulnbox.onrender.com
+  → Hands-on cybersecurity platform for **real attack simulations**  
+  → 🌐 Live: https://vulnbox.onrender.com
+
 ---
 
 ## 🌐 Connect
@@ -83,4 +86,4 @@
 ## 🧠 Dev Mindset
 
 ```bash
-> build → break → fix → scale → repeat
+> build → break → fix → optimize → repeat
