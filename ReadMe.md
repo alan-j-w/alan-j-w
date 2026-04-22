@@ -2,14 +2,14 @@
 <h3 align="center">🚀 Full Stack Developer | MERN + Django</h3>
 
 <p align="center">
-  <i>Building real-world products, not just projects.</i>
+  <i>Building systems that people actually use.</i>
 </p>
 
 ---
 
 ## ⚡ About Me
 
-- 💻 Full-stack developer focused on **MERN & Django**
+ 💻 Full-stack developer focused on **MERN & Django**
 - 🧠 I build systems that actually solve problems  
 - 🔥 Interested in **scalable backend + clean UI**
 - 🎯 Currently leveling up in **real-world production apps**
@@ -43,9 +43,14 @@
 
 ## 🚧 What I’m Building
 
-- 🔐 **VulnBox** → Cybersecurity learning platform (SQLi challenges)
-- 🏥 **Clinic Management System** → Inventory + prescriptions backend
-- 🛡️ **AI Phishing Detection Portal** → Smart threat detection system
+- 🛒 **Multi-vendor E-commerce Platform**  
+  → Built like a scalable marketplace system with vendor & admin architecture  
+
+- 🤝 **Trackpi Job Portal (Collaborative Project)**  
+  → Platform focused on job workflows & CRM-style operations  
+
+- 🔐 **VulnBox**  
+  → Hands-on cybersecurity learning platform with real attack simulations  
 
 ---
 
@@ -78,4 +83,4 @@
 ## 🧠 Dev Mindset
 
 ```bash
-> build > learn > break > fix > repeat
+> build → break → fix → scale → repeat
