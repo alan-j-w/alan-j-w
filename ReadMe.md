@@ -1,55 +1,81 @@
-# 💫 About Me:
-Hi, I'm Alan Joy Wilson
+<h1 align="center">Hey 👋, I'm Alan Joy Wilson</h1>
+<h3 align="center">🚀 Full Stack Developer | MERN + Django</h3>
 
-🚀 MERN Stack & Django Developer
-💡 Focused on building real-world web applications
-📍 Kerala, India
-
-🧠 What I Do
-Build full-stack applications using MERN & Django
-Develop REST APIs and scalable backend systems
-Create clean, responsive frontend interfaces
-Solve real-world problems through projects
-
-🌐 Connect With Me
-🔗 LinkedIn: https://www.linkedin.com/in/alan-joy-wilson
-📧 Email: alanjoywilson@gmail.com
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-joy-wilson) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alanjoywilson@gmail.com) 
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next.js](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alan-j-w&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=alan-j-w&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alan-j-w&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <i>Building real-world products, not just projects.</i>
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=alan-j-w&icon=0&color=0)](https://visitcount.itsvg.in)
+## ⚡ About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 💻 Full-stack developer focused on **MERN & Django**
+- 🧠 I build systems that actually solve problems  
+- 🔥 Interested in **scalable backend + clean UI**
+- 🎯 Currently leveling up in **real-world production apps**
+- 📍 Based in Kerala, India
+
+---
+
+## 🛠️ Tech Arsenal
+
+### 💡 Core
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)
+
+### ⚙️ Backend
+![Django](https://img.shields.io/badge/Django-111?style=for-the-badge&logo=django)
+![NodeJS](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-111?style=for-the-badge&logo=express)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-111?style=for-the-badge&logo=next.js)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-111?style=for-the-badge&logo=tailwind-css)
+
+### 🗄️ Database & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql)
+![NPM](https://img.shields.io/badge/NPM-111?style=for-the-badge&logo=npm)
+
+---
+
+## 🚧 What I’m Building
+
+- 🔐 **VulnBox** → Cybersecurity learning platform (SQLi challenges)
+- 🏥 **Clinic Management System** → Inventory + prescriptions backend
+- 🛡️ **AI Phishing Detection Portal** → Smart threat detection system
+
+---
+
+## 🌐 Connect
+
+<p align="left">
+<a href="https://www.linkedin.com/in/alan-joy-wilson">
+  <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin">
+</a>
+<a href="mailto:alanjoywilson@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail">
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alan-j-w&theme=tokyonight&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=alan-j-w&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-j-w&theme=tokyonight&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Dev Mindset
+
+```bash
+> build > learn > break > fix > repeat
