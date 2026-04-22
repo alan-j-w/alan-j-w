@@ -1,16 +1,19 @@
 # 💫 About Me:
-Hi, I'm Alan Joy Wilson 👋
+Hi, I'm Alan Joy Wilson
 
 🚀 MERN Stack & Django Developer
 💡 Focused on building real-world web applications
 📍 Kerala, India
 
-What I Do
-Build full-stack web applications using MERN & Django
-Create REST APIs and scalable backend systems
-Design clean and responsive frontend interfaces
-Work on real-world problem-solving projects
+🧠 What I Do
+Build full-stack applications using MERN & Django
+Develop REST APIs and scalable backend systems
+Create clean, responsive frontend interfaces
+Solve real-world problems through projects
 
+🌐 Connect With Me
+🔗 LinkedIn: https://www.linkedin.com/in/alan-joy-wilson
+📧 Email: alanjoywilson@gmail.com
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-joy-wilson) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alanjoywilson@gmail.com) 
