@@ -1,6 +1,15 @@
 # 💫 About Me:
-I am currently pursuing MCA
+Hi, I'm Alan Joy Wilson 👋
 
+🚀 MERN Stack & Django Developer
+💡 Focused on building real-world web applications
+📍 Kerala, India
+
+What I Do
+Build full-stack web applications using MERN & Django
+Create REST APIs and scalable backend systems
+Design clean and responsive frontend interfaces
+Work on real-world problem-solving projects
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-joy-wilson) 
@@ -31,7 +40,6 @@ I am currently pursuing MCA
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
