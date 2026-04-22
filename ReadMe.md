@@ -44,14 +44,14 @@
 ## 🚧 What I’m Building
 
 - 🛒 **Multi-vendor E-commerce Platform**  
-  → Built like a scalable marketplace system with vendor & admin architecture  
+  → Built like a scalable marketplace system with vendor & admin architecture
 
 - 🤝 **Trackpi Job Portal (Collaborative Project)**  
-  → Platform focused on job workflows & CRM-style operations  
+  → Platform focused on recruitment operations & CRM-style operations of trackpi private limited 
 
 - 🔐 **VulnBox**  
-  → Hands-on cybersecurity learning platform with real attack simulations  
-
+  → Hands-on cybersecurity learning platform with real attack simulations and Hands-on vulnerability testing 
+   Live: https://vulnbox.onrender.com
 ---
 
 ## 🌐 Connect
