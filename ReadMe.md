@@ -74,7 +74,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alan-j-w&theme=tokyonight&hide_border=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=alan-j-w&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=alan-j-w&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
