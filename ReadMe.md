@@ -47,7 +47,7 @@
 
 - 🛒 **Multi-vendor E-commerce Platform**  
   → Marketplace architecture with **vendor & admin systems**
-
+  → 🌐 Live:  https://nexcart-ecommerce-platform.vercel.app/
 - 🤝 **Trackpi Job Portal (Collaborative)**  
   → Recruitment workflows with **CRM-style operations**
 
