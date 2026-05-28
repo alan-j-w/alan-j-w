@@ -42,17 +42,20 @@
 ![NPM](https://img.shields.io/badge/NPM-111?style=for-the-badge&logo=npm)
 
 ---
-
 ## 🚧 What I’m Building
 
-- 🛒 **Multi-vendor E-commerce Platform**  
-  → Marketplace architecture with **vendor & admin systems**
-  → 🌐 Live:  https://nexcart-ecommerce-platform.vercel.app/
-- 🤝 **Trackpi Job Portal (Collaborative)**  
-  → Recruitment workflows with **CRM-style operations**
+* 🎬 **Cellulogram**
+  → Premium mobile-first casting workflow platform for actors, filmmakers, and regional cinema creators
 
-- 🔐 **VulnBox**  
-  → Hands-on cybersecurity platform for **real attack simulations**  
+* 🛒 **Multi-vendor E-commerce Platform**
+  → Marketplace architecture with vendor & admin systems
+  → 🌐 Live: https://nexcart-ecommerce-platform.vercel.app/
+
+* 🤝 **TrackPi Job Portal (Collaborative)**
+  → Recruitment workflows with CRM-style operations
+
+* 🔐 **VulnBox**
+  → Hands-on cybersecurity platform for real attack simulations
   → 🌐 Live: https://vulnbox.onrender.com
 
 ---
