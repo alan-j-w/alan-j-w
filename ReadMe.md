@@ -20,28 +20,33 @@
 ## 🛠️ Tech Arsenal
 
 ### 💡 Core
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)
+
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge\&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge\&logo=typescript)
 
 ### ⚙️ Backend
-![Django](https://img.shields.io/badge/Django-111?style=for-the-badge&logo=django)
-![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-111?style=for-the-badge&logo=express)
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-111?style=for-the-badge&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111?style=for-the-badge&logo=tailwind-css)
+![Django](https://img.shields.io/badge/Django-111?style=for-the-badge\&logo=django)
+![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-111?style=for-the-badge\&logo=express)
+
+### 🎨 Frontend & Mobile
+
+![React](https://img.shields.io/badge/React-111?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-111?style=for-the-badge\&logo=next.js)
+![React Native](https://img.shields.io/badge/React_Native-111?style=for-the-badge\&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111?style=for-the-badge\&logo=tailwind-css)
 
 ### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge\&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge\&logo=mysql)
 
 ### 🧰 Tools
-![NPM](https://img.shields.io/badge/NPM-111?style=for-the-badge&logo=npm)
 
----
+![NPM](https://img.shields.io/badge/NPM-111?style=for-the-badge\&logo=npm)
+
 ## 🚧 What I’m Building
 
 * 🎬 **Cellulogram**
