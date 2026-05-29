@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Alan Joy Wilson</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN + Django</h3>
+<h3 align="center"> Full Stack Developer | MERN + Django</h3>
 
 <p align="center">
   <i>Building systems that people actually use.</i>
@@ -7,7 +7,7 @@
 
 ---
 
-## ⚡ About Me
+##  About Me
 
 - 💻 Full-stack developer focused on **MERN & Django**
 - 🧠 I build **practical, problem-solving applications**
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+##  Tech Arsenal
 
 ### 💡 Core
 
@@ -78,7 +78,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alan-j-w&theme=tokyonight&hide_border=true" />
