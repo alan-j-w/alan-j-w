@@ -20,56 +20,29 @@
 
 ## Tech Stack
 
-### Core
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=django,nodejs,express" />
-</p>
-
-### Frontend & Mobile
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-  <img src="https://skillicons.dev/icons?i=react" height="48" alt="React Native"/>
-</p>
-
-### Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=npm,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,django,nodejs,express,react,nextjs,tailwind,mongodb,mysql,npm,git,github,vscode&perline=5" />
 </p>
 
 ---
 
 ## Projects
 
-### Cellulogram
+### 🎬 Cellulogram
 
 Premium cinematic casting workflow platform for actors, filmmakers, and regional cinema creators.
 
-### Multi-vendor E-commerce Platform
+### 🛒 Multi-vendor E-commerce Platform
 
 Marketplace architecture with vendor and admin systems.
 
 **Live:** https://nexcart-ecommerce-platform.vercel.app/
 
-### TrackPi Job Portal (Collaborative)
+### 🤝 TrackPi Job Portal (Collaborative)
 
 Recruitment workflows with CRM-style operations.
 
-### VulnBox
+### 🔐 VulnBox
 
 Hands-on cybersecurity platform for real attack simulations.
 
@@ -79,11 +52,11 @@ Hands-on cybersecurity platform for real attack simulations.
 
 ## Connect
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/alan-joy-wilson">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
+
   <a href="mailto:alanjoywilson@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
