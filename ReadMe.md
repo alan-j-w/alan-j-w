@@ -50,37 +50,31 @@
 
 ---
 
-## Projects
 
-### Cellulogram
+## 🚧 What I’m Building
 
-Premium cinematic casting workflow platform for actors, filmmakers, and regional cinema creators.
+* 🎬 **Cellulogram**
+  → Premium cinematic casting workflow platform for actors, filmmakers, and regional cinema creators
+ 
+* 🛒 **Multi-vendor E-commerce Platform**
+  → Marketplace architecture with vendor & admin systems
+  → 🌐 Live: https://nexcart-ecommerce-platform.vercel.app/
 
-### Multi-vendor E-commerce Platform
+* 🤝 **TrackPi Job Portal (Collaborative)**
+  → Recruitment workflows with CRM-style operations
 
-Marketplace architecture with vendor & admin systems.
-
-🌐 Live: https://nexcart-ecommerce-platform.vercel.app/
-
-### TrackPi Job Portal (Collaborative)
-
-Recruitment workflows with CRM-style operations.
-
-### VulnBox
-
-Hands-on cybersecurity platform for real attack simulations.
-
-🌐 Live: https://vulnbox.onrender.com
+* 🔐 **VulnBox**
+  → Hands-on cybersecurity platform for real attack simulations
+  → 🌐 Live: https://vulnbox.onrender.com
 
 ---
 
-## Connect
+## 🌐 Connect
 
 <p align="left">
 <a href="https://www.linkedin.com/in/alan-joy-wilson">
   <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin">
 </a>
-
 <a href="mailto:alanjoywilson@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail">
 </a>
@@ -88,7 +82,7 @@ Hands-on cybersecurity platform for real attack simulations.
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alan-j-w&theme=tokyonight&hide_border=true" />
@@ -104,9 +98,9 @@ Hands-on cybersecurity platform for real attack simulations.
 
 ---
 
-## Dev Mindset
+## 🧠 Dev Mindset
 
 ```bash
 > build → break → fix → optimize → repeat
-```
+
 
