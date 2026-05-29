@@ -50,8 +50,8 @@
 ## 🚧 What I’m Building
 
 * 🎬 **Cellulogram**
-  → Premium mobile-first casting workflow platform for actors, filmmakers, and regional cinema creators
-
+  → Premium cinematic casting workflow platform for actors, filmmakers, and regional cinema creators
+ 
 * 🛒 **Multi-vendor E-commerce Platform**
   → Marketplace architecture with vendor & admin systems
   → 🌐 Live: https://nexcart-ecommerce-platform.vercel.app/
