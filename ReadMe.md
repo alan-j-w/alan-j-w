@@ -8,7 +8,11 @@
 
 ## About Me
 
-* 💻 Full-stack developer focused on **MERN & Django*** 🧠 Building **practical, problem-solving applications*** ⚙️ Interested in **scalable backend + clean UI*** 🚀 Currently working on **real-world production systems*** 📍 Kerala, India
+- Full Stack Developer specializing in MERN and Django
+- Focused on building scalable, production-ready applications
+- Interested in backend architecture, APIs, and clean user experiences
+- Passionate about solving real-world business problems through software
+- Based in Kerala, India
 
 ---
 
@@ -36,6 +40,7 @@
 
 ---
 
+
 ## 🚧 What I’m Building
 
 * 🎬 **Cellulogram**→ Premium cinematic casting workflow platform for actors, filmmakers, and regional cinema creators
@@ -46,19 +51,30 @@
 
 * 🔐 **VulnBox**→ Hands-on cybersecurity platform for real attack simulations→ 🌐 Live: https://vulnbox.onrender.com
 
+
+
+
+## Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/alan-joy-wilson">
+    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="mailto:alanjoywilson@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
 ---
 
-## 🌐 Connect
-
-<p align="left"><a href="https://www.linkedin.com/in/alan-joy-wilson"><img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin"></a><a href="mailto:alanjoywilson@gmail.com"><img src="https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail"></a></p>
-## 📊 GitHub Stats
+## GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=alan-j-w&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
-
 ## 🧠 Dev Mindset
 
 <P> build → break → fix → optimize → repeat</P>
