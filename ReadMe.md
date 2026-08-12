@@ -79,8 +79,7 @@
   <img src="https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail">
 </a>
 </p>
-
----
+------
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -96,8 +95,6 @@
 </p>
 
 ---
-
-
 ## 🧠 Dev Mindset
 
 ```bash
