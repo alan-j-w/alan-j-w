@@ -53,19 +53,10 @@
 <p align="left"><a href="https://www.linkedin.com/in/alan-joy-wilson"><img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin"></a><a href="mailto:alanjoywilson@gmail.com"><img src="https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail"></a></p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alan-j-w&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alan-j-w&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-j-w&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alan-j-w&theme=tokyo-night" />
 </p>
 
 ---
