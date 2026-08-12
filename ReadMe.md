@@ -61,4 +61,4 @@
 
 ## 🧠 Dev Mindset
 
-```bash> build → break → fix → optimize → repeat
+<P> build → break → fix → optimize → repeat</P>
