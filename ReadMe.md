@@ -51,16 +51,13 @@
 ## 🌐 Connect
 
 <p align="left"><a href="https://www.linkedin.com/in/alan-joy-wilson"><img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin"></a><a href="mailto:alanjoywilson@gmail.com"><img src="https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail"></a></p>
-
----
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alan-j-w&theme=tokyo-night" />
+  <img src="https://streak-stats.demolab.com?user=alan-j-w&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
-
 
 ## 🧠 Dev Mindset
 
