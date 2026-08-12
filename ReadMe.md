@@ -47,7 +47,7 @@
 
 * 🛒 **Multi-vendor E-commerce Platform**→ Marketplace architecture with vendor & admin systems→ 🌐 Live: https://nexcart-ecommerce-platform.vercel.app/
 
-* 🤝 **TrackPi Job Portal (Collaborative)**→ Recruitment workflows with CRM-style operations
+* 🤝 TrackPi Job Portal (Collaborative)→ Recruitment workflows with CRM-style operations
 
 * 🔐 **VulnBox**→ Hands-on cybersecurity platform for real attack simulations→ 🌐 Live: https://vulnbox.onrender.com
 
