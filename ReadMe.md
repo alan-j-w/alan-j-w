@@ -52,10 +52,14 @@
 * 🔐 **VulnBox**→ Hands-on cybersecurity platform for real attack simulations→ 🌐 Live: https://vulnbox.onrender.com
 
 
-
-
 ## Portfolio
-<p align="left"> <a href="https://alan-j-w.github.io/portfolio/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> </p>
+
+<p align="left">
+  <a href="https://alan-j-w.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+🔗 https://alan-j-w.github.io
 
 ## Connect With Me
 <p align="left">
