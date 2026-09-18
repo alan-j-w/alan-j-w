@@ -54,8 +54,10 @@
 
 
 
-## Connect
+Portfolio
+<p align="left"> <a href="https://alan-j-w.github.io/portfolio/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> </p>
 
+## Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/alan-joy-wilson">
     <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin" />
